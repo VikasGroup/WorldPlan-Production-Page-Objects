@@ -1,0 +1,21 @@
+2017-03-30 11:30:00,323 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\OFFICE DRIVE-CODE REPO\WP-PROD-PAGEOBJECT\wpPageobject\pom.xml
+2017-03-30 11:30:05,673 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wp.pgobject:wpPageobject:0.0.1-SNAPSHOT @ D:\OFFICE DRIVE-CODE REPO\WP-PROD-PAGEOBJECT\wpPageobject\pom.xml.
+2017-03-30 11:30:10,189 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wpPageobject/src/main/java
+2017-03-30 11:30:10,214 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wpPageobject/src/test/java
+2017-03-30 11:30:10,216 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /wpPageobject/src/test/resources
+2017-03-30 11:30:15,148 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 14 sec
+2017-03-30 11:30:18,656 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 11:30:18,656 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OFFICE DRIVE-CODE REPO\WP-PROD-PAGEOBJECT\wpPageobject\src\main\resources
+2017-03-30 11:30:18,658 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 11:30:18,664 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-03-30 13:19:05,195 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wp.pgobject:wpPageobject:0.0.1-SNAPSHOT @ D:\OFFICE DRIVE-CODE REPO\WP-PROD-PAGEOBJECT\wpPageobject\pom.xml.
+2017-03-30 13:19:05,240 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wp.pgobject:wpPageobject:0.0.1-SNAPSHOT @ D:\OFFICE DRIVE-CODE REPO\WP-PROD-PAGEOBJECT\wpPageobject\pom.xml.
+2017-03-30 13:19:09,957 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 13:19:09,957 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OFFICE DRIVE-CODE REPO\WP-PROD-PAGEOBJECT\wpPageobject\src\main\resources
+2017-03-30 13:19:09,961 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 13:19:09,970 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-03-30 13:19:12,699 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wp.pgobject:wpPageobject:0.0.1-SNAPSHOT @ D:\OFFICE DRIVE-CODE REPO\WP-PROD-PAGEOBJECT\wpPageobject\pom.xml.
+2017-03-30 13:19:15,601 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 13:19:15,601 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OFFICE DRIVE-CODE REPO\WP-PROD-PAGEOBJECT\wpPageobject\src\main\resources
+2017-03-30 13:19:15,604 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 13:19:15,606 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
