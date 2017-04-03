@@ -1,12 +1,11 @@
-package wpPageobject;
+package WPRegPageobject;
 
 import org.openqa.selenium.WebElement;
 
 import net.serenitybdd.core.annotations.findby.FindBy;
 import net.serenitybdd.core.pages.PageObject;
 
-public class Online_Login_VOPageObj extends PageObject {
-	
+public class Online_Login_VOPageObj extends PageObject{
 	@FindBy(id="ctl00_ContentPlaceHolder1_txtTCO")
 	WebElement IRID_txt;
 	
@@ -25,5 +24,4 @@ public class Online_Login_VOPageObj extends PageObject {
 	public void clickLogin(){
 		login_btn.click();
 	}
-
 }
